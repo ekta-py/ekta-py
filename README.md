@@ -26,7 +26,7 @@ Aspiring Softwear Engineer at <a href="https://www.thoughtworks.com">VS Code</a>
 </em></p>
 
 <!--[![Twitter: Ektakanu](https://img.shields.io/twitter/follow/ektakanu?style=social)](https://twitter.com/ektaknau) -->
-[![Linkedin: Ekta Kanu ](https://img.shields.io/badge/-ektakanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekta-kanu-527831244/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: Ekta Kanu ](https://img.shields.io/badge/-ektakanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekta-kanu-527831244/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/ekta-kanu-527831244/))
 [![GitHub Thaiane](https://img.shields.io/github/followers/riyekta?label=follow&style=social)](https://github.com/riyekta)
 
 
@@ -38,7 +38,7 @@ const thai = {
   code: [C, Javascript, HTML, CSS],
   tools: [CodeChef , VS Code],
   myTeam: {
-                        coorganizer: "Code Mesh",
+                        TeamName: "Code Mesh",
                         Member: "@ZiaCodes",
                         Leader: "@riyekta"
                       },
