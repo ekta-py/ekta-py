@@ -33,13 +33,13 @@ Aspiring Softwear Engineer at <a href="https://www.thoughtworks.com">VS Code</a>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Ekta = {
   pronouns: "she" | "her",
   code: [C, Javascript, HTML, CSS],
   tools: [CodeChef , VS Code],
   myTeam: {
                         TeamName: "Code Mesh",
-                        Member: "@ZiaCodes",
+                        Member: "2",
                         Leader: "@riyekta"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Web Dev and DSA"
