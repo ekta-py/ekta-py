@@ -38,7 +38,7 @@ const Ekta = {
   code: [C, Javascript, HTML, CSS],
   tools: [CodeChef , VS Code],
   myTeam: {
-                        TeamName: "Code Mesh",
+                        TeamName: "HashMAP 2.0",
                         Member: "2",
                         Leader: "@riyekta"
                       },
