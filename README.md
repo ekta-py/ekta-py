@@ -3,7 +3,7 @@
 - 👀 I’m interested in solving complex problem through code.
 - 🌱 I’m currently learning c programming
 - 💞️ I’m looking to collaborate on web dev
-- 📫 reach me @riyekta
+- 📫 reach me @ekta-py
 
 
 riyekta/riyekta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Aspiring Softwear Engineer at <a href="https://www.thoughtworks.com">VS Code</a>
 
 <!--[![Twitter: Ektakanu](https://img.shields.io/twitter/follow/ektakanu?style=social)](https://twitter.com/ektaknau) -->
 [![Linkedin: Ekta Kanu ](https://img.shields.io/badge/-ektakanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekta-kanu-527831244/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/ekta-kanu-527831244/))
-[![GitHub Thaiane](https://img.shields.io/github/followers/riyekta?label=follow&style=social)](https://github.com/riyekta)
+[![GitHub Thaiane](https://img.shields.io/github/followers/ekta-py?label=follow&style=social)](https://github.com/ekta-py)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -40,7 +40,7 @@ const Ekta = {
   myTeam: {
                         TeamName: "HASHMAP 2.0",
                         Member: "2",
-                        Leader: "@riyekta"
+                        Leader: "@ekta-py"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Web Dev and DSA"
 }
